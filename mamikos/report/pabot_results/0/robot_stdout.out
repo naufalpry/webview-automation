@@ -1,0 +1,18 @@
+==============================================================================
+Testcase                                                                      
+==============================================================================
+Testcase.Akun-saya-1                                                          
+==============================================================================
+Pengaturan                                                            | FAIL |
+Setup failed:
+WebDriverException: Message: 'chromedriver' executable needs to be in PATH. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+------------------------------------------------------------------------------
+Testcase.Akun-saya-1                                                  | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Testcase                                                              | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  /Users/naufalpry/Automation/robot-framework/mamikos/report/pabot_results/0/output.xml

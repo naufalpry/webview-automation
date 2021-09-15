@@ -1,0 +1,24 @@
+1553843795924	geckodriver	INFO	geckodriver 0.18.0
+1553843795932	geckodriver	INFO	Listening on 127.0.0.1:53947
+1553843797059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553843799644	Marionette	INFO	Listening on port 45057
+1553843799676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+[Child 19968, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19968, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 19968, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1553843998417	geckodriver	INFO	geckodriver 0.18.0
+1553843998426	geckodriver	INFO	Listening on 127.0.0.1:44731
+1553843999530	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553844001555	Marionette	INFO	Listening on port 35373
+1553844001696	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21071, Chrome_ChildThread] WARNING: pipe error (25): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21071, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1553844541869	geckodriver	INFO	geckodriver 0.18.0
+1553844541879	geckodriver	INFO	Listening on 127.0.0.1:33631
+1553844542980	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553844544860	Marionette	INFO	Listening on port 40633
+1553844544903	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21937, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21937, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21937, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

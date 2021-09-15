@@ -1,0 +1,10 @@
+[ ERROR ] Error in file '/Users/naufalpry/Automation/robot-framework/mamikos/service/setting.robot' on line 4: Test library '../var/notif.py' does not exist.
+[ ERROR ] Error in file '/Users/naufalpry/Automation/robot-framework/mamikos/service/resource.robot' on line 6: Importing test library 'HttpLibrary.HTTP' failed: SyntaxError: invalid syntax (__init__.py, line 16)
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  /Library/Frameworks/Python.framework/Versions/3.9/bin
+  /Library/Frameworks/Python.framework/Versions/3.9/lib/python39.zip
+  /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9
+  /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload
+  /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages
