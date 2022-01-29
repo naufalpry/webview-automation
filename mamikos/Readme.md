@@ -1,1 +1,1 @@
-# Automation Mamikos using robot & selenium
+# Automation using robot & selenium
