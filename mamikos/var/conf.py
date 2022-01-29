@@ -1,2 +1,2 @@
-URL_TARGET="https://kd-mobile.medkomtek.net"
+URL_TARGET="https://mamikos.com"
 URL_BROWSER="chrome" 
